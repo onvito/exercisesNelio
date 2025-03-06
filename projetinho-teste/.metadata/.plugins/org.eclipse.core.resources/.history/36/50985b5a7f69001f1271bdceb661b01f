@@ -1,0 +1,10 @@
+package br.com.projetinho.teste;
+
+public class Exercicio_nelio {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner (System.in);
+
+	}
+
+}

@@ -1,0 +1,26 @@
+package entities;
+
+public class Student {
+
+	public String name;
+	public double nota1;
+	public double nota2;
+	public double nota3;
+	
+	public double notaCalculada() {
+		return nota1+nota2+nota3;
+	
+	}
+	
+	public double resultadoFinal() {
+		
+		if (notaCalculada() < 60.0) {
+			return 60.0 - notaCalculada();
+			}
+			else {
+			return 0.0;
+			}
+		
+	}
+
+}

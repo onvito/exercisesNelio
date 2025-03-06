@@ -1,0 +1,14 @@
+INDEX VERSION 1.134+C:\Desenvolvimento\exerciciosNelio\.metadata\.plugins\org.eclipse.jdt.core
+2129123373.index
+60579302.index
+1865797976.index
+1834939953.index
+1213645867.index
+1062335677.index
+2790827271.index
+1506730008.index
+3504019898.index
+3907137427.index
+1140659485.index
+165734587.index
+2020305663.index
